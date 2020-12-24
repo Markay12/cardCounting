@@ -9,7 +9,17 @@ Multiple people have gotten away with this in the past, however, a lot of places
 This program allows you to play along with the game of card counting while also learning the data and statistics of the game that is going on.
 
 
-## The game
+## The Game
+
+1. This program begins by randomly drawing one card from the Object-Oriented deck of [52] cards
+2. Then you will be asked, based off of this card, whether the next card randomly drawn will be higher or lower than the face value of this card
+3. If you are correct, you will gain a point and if you are wrong the game will end and let you know how many cards were drawn and how many that you got right
+
+**NOTE**: You will be given an opportunity here to guess what the exact card will be. If this is correct you will gain +5 points
 
 
 ## The Data
+
+At the end of each round, you will be notified of all the game statistics. How many cards have been drawn? What are your odds for the next card being higher or lower? And specifically what is the percent chance the next face value will be <any>?
+
+Test your luck and understand the power of arithmetic and statistics
