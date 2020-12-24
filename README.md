@@ -20,6 +20,6 @@ This program allows you to play along with the game of card counting while also 
 
 ## The Data
 
-At the end of each round, you will be notified of all the game statistics. How many cards have been drawn? What are your odds for the next card being higher or lower? And specifically what is the percent chance the next face value will be <any>?
+At the end of each round, you will be notified of all the game statistics. How many cards have been drawn? What are your odds for the next card being higher or lower? And specifically what is the percent chance the next face value will be [any]?
 
 Test your luck and understand the power of arithmetic and statistics
