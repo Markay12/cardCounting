@@ -17,6 +17,7 @@ This program allows you to play along with the game of card counting while also 
 
 **NOTE**: You will be given an opportunity here to guess what the exact card will be. If this is correct you will gain +5 points
 
+![First Output](./media/firstValue.png)
 
 ## The Data
 
